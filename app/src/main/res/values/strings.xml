@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">mmeShop</string>
+    <string name="title_activity_wanita">Pakaian Atas Wanita</string>
+    <string name="title_activity_pria">Pakaian Atas Pria</string>
+    <string name="title_activity_aks_wanita">Aksesoris Wanita</string>
+    <string name="title_activity_aks_pria">Aksesoris Pria</string>
+    <string name="title_activity_bwh_wanita">Pakaian Bawah Wanita</string>
+    <string name="title_activity_bwh_pria">Pakaian Bawah Pria</string>
+    <string name="title_activity_about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="isi">
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+        <item>Belum Tersedia</item>
+    </string-array>
+
+    </resources>
